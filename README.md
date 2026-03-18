@@ -1,16 +1,14 @@
-# Assignment5-1
-
 # Project Report: Coupon Acceptance Analysis
 
-Overview
+## Overview
 
 This project explores the factors that influence whether a driver accepts or rejects a promotional coupon. By analyzing various demographic and behavioral attributes, we identified distinct patterns that separate high-conversion customers from those unlikely to engage. The primary goal of this analysis was to move beyond broad targeting and pinpoint the specific "profiles" that drive the most value for different coupon types.
 
-Findings: Who Accepts Coupons?
+## Findings: Who Accepts Coupons?
 
 Our analysis revealed that prior habits are the single most significant predictor of whether a customer will accept a coupon. Across both Bar and Coffee House categories, customers who already frequented those establishments showed significantly higher acceptance rates than new or infrequent visitors.
 
-Bar Coupons
+## Bar Coupons
 
 The Power of Habit: Drivers who visit bars more than 3 times a month have a 77% acceptance rate, which is more than double the 37% rate seen in infrequent visitors.
 
@@ -18,13 +16,13 @@ Social and Situational Context: Acceptance peaks at 71% for frequent bar-goers w
 
 Target Demographics: Younger adults (under 30) and those in specific lifestyle clusters—such as those who also frequent "cheap restaurants"—show a higher propensity to accept, typically around 59%.
 
-Coffee House Coupons
+## Coffee House Coupons
 
 The Loyalty Loop: Similar to bars, frequent patrons (3+ visits per month) accept coupons at a rate of 68%, compared to 45% for others. This indicates that these coupons act as a "subsidy" for an existing daily routine.
 
 The Youth Factor: Drivers under the age of 30 who visit coffee houses at least once a month are highly responsive, maintaining a 68% acceptance rate. This segment represents the primary growth opportunity for this category.
 
-Recommendations & Actionable Items
+## Recommendations & Actionable Items
 
 To improve marketing ROI, the following strategies should be implemented:
 
@@ -34,7 +32,7 @@ Conditional Suppression: For bar coupons, utilize real-time data to suppress off
 
 Routine-Based Scheduling: Align Coffee House coupon delivery with traditional "morning commute" or "mid-afternoon break" windows to catch habitual users during their natural decision-making periods.
 
-Next Steps
+## Next Steps
 
 Moving forward, the analysis should expand into the following areas:
 

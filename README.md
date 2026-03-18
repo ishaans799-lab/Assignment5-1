@@ -1,5 +1,7 @@
 # Project Report: Coupon Acceptance Analysis
 
+Link to notebook: https://github.com/ishaans799-lab/Assignment5-1/blob/a3de78d15d9517e6d1aae29cae27026c8eca3ca6/Assignment_5_1_Notebook.ipynb
+
 ## Overview
 
 This project explores the factors that influence whether a driver accepts or rejects a promotional coupon. By analyzing various demographic and behavioral attributes, we identified distinct patterns that separate high-conversion customers from those unlikely to engage. The primary goal of this analysis was to move beyond broad targeting and pinpoint the specific "profiles" that drive the most value for different coupon types.
